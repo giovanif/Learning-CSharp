@@ -1,0 +1,8 @@
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\bin\Debug\HelloWorld.exe.config
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\bin\Debug\HelloWorld.exe
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\bin\Debug\HelloWorld.pdb
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.exe
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,8 @@
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.AssemblyReference.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.SuggestedBindingRedirects.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.CoreCompileInputs.cache
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe.config
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.pdb
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.exe
+Z:\Projetos\Learning-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.pdb
